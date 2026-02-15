@@ -1,0 +1,99 @@
+{
+  "passport": {
+    "id": "NMC-BAT-2025-FR-8105",
+    "version": "v1.0",
+    "status": "prototype",
+    "lastUpdate": "Veri mevcut değil"
+  },
+  "battery": {
+    "manufacturer": "Veri mevcut değil",
+    "category": "Çekiş bataryası (Traction Battery)",
+    "model": "Veri mevcut değil",
+    "capacity": "52 kWh",
+    "weight": "Veri mevcut değil",
+    "chemistry": {
+      "code": "NMC 811",
+      "label": "NMC 811 (80% Ni, 10% Mn, 10% Co)"
+    },
+    "manufacturing": {
+      "month": "Veri mevcut değil",
+      "year": "2025",
+      "country": "Fransa",
+      "address": "Veri mevcut değil"
+    }
+  },
+  "carbonFootprint": {
+    "total": 77,
+    "unit": "kgCO2e/kWh",
+    "reference": "Aulanier et al., 2023",
+    "dataAvailable": true,
+    "stages": {
+      "rawMaterial": 35,
+      "manufacturing": 28,
+      "transport": 8,
+      "endOfLife": 6
+    },
+    "note": "Çekiş bataryası için literatür bazlı demo değer (prototip)."
+  },
+  "materials": {
+    "criticalRawMaterials": "Veri mevcut değil",
+    "hazardousSubstances": "Veri mevcut değil",
+    "detailedComposition": {
+      "cathode": "Veri mevcut değil",
+      "anode": "Veri mevcut değil",
+      "electrolyte": "Veri mevcut değil"
+    },
+    "parts": {
+      "partNumbers": "Veri mevcut değil",
+      "sparePartContacts": "Veri mevcut değil"
+    }
+  },
+  "performance": {
+    "nominalVoltage": "Veri mevcut değil",
+    "voltageMin": "Veri mevcut değil",
+    "voltageNom": "Veri mevcut değil",
+    "voltageMax": "Veri mevcut değil",
+    "powerCapacity": "Veri mevcut değil",
+    "temperatureMin": "Veri mevcut değil",
+    "temperatureMax": "Veri mevcut değil",
+    "cycleLife": "Veri mevcut değil",
+    "energyEfficiency": "Veri mevcut değil"
+  },
+  "circularity": {
+    "repairability": "Veri mevcut değil",
+    "recyclability": "Veri mevcut değil",
+    "recycledContent": "Veri mevcut değil",
+    "secondLife": "Veri mevcut değil",
+    "documents": {
+      "dismantlingInstructions": "Veri mevcut değil",
+      "sds": "Veri mevcut değil"
+    },
+    "dismantlingInfo": {
+      "explodedViews": "Veri mevcut değil",
+      "dismantlingSequence": "Veri mevcut değil",
+      "connectionTechniques": "Veri mevcut değil",
+      "requiredTools": "Veri mevcut değil"
+    },
+    "safety": {
+      "precautions": "Veri mevcut değil",
+      "damageRiskWarnings": "Veri mevcut değil"
+    }
+  },
+  "legalAndWaste": {
+    "euDeclarationOfConformity": "Veri mevcut değil",
+    "wastePreventionAndManagement": "Veri mevcut değil"
+  },
+  "compliance": {
+    "rohs": "Uyumlu (Demo)",
+    "reach": "Uyumlu (Demo)",
+    "ce": "Uyumlu (Demo)",
+    "testReport": "Uyumlu (Demo)",
+    "productCertificates": "Uyumlu (Demo)"
+  },
+  "dynamic": {
+    "performanceRecords": "Veri mevcut değil",
+    "soh": "Veri mevcut değil",
+    "batteryStatus": "Veri mevcut değil",
+    "usageData": "Veri mevcut değil"
+  }
+}
